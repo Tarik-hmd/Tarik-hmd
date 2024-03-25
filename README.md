@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarik-hmd
-- 👀 I’m interested in information technology 
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in information technology and games dev
+- 🌱 I’m currently learning games dev
 
 
 <!---
